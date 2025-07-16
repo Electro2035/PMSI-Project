@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "FasUmKranji",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "Nama": "Stasiun Kranji", "Y": -6.2244297118578, "X": 106.979852264154 }, "geometry": { "type": "Point", "coordinates": [ 106.979852264154005, -6.2244297118578 ] } },
+{ "type": "Feature", "properties": { "No": 2, "Nama": "Masjid Jami' An-Nur", "Y": -6.2235389639420404, "X": 106.977918727095 }, "geometry": { "type": "Point", "coordinates": [ 106.977918727095002, -6.22353896394204 ] } },
+{ "type": "Feature", "properties": { "No": 3, "Nama": "Naga Swalayan Kranji", "Y": -6.2249538107864302, "X": 106.97971901005801 }, "geometry": { "type": "Point", "coordinates": [ 106.979719010058005, -6.22495381078643 ] } }
+]
+}

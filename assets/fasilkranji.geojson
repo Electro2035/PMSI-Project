@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "fasilkranji",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No": 1, "Nama": "Stasiun Kranji", "Y": -6.2244297118578, "X": 106.979852264154 }, "geometry": { "type": "Point", "coordinates": [ 106.979852264154005, -6.2244297118578 ] } },
+{ "type": "Feature", "properties": { "No": 2, "Nama": "Masjid Jami' An-Nur", "Y": -6.2235389639420404, "X": 106.977918727095 }, "geometry": { "type": "Point", "coordinates": [ 106.977918727095002, -6.22353896394204 ] } },
+{ "type": "Feature", "properties": { "No": 3, "Nama": "Naga Swalayan Kranji", "Y": -6.2249538107864302, "X": 106.97971901005801 }, "geometry": { "type": "Point", "coordinates": [ 106.979719010058005, -6.22495381078643 ] } },
+{ "type": "Feature", "properties": { "No": 4, "Nama": "Pasar Kranji Baru", "Y": -6.23448711079772, "X": 106.97361234037 }, "geometry": { "type": "Point", "coordinates": [ 106.973612340369996, -6.23448711079772 ] } },
+{ "type": "Feature", "properties": { "No": 5, "Nama": "SPARTAN GYM", "Y": -6.2320704058820571, "X": 106.97376384478396 }, "geometry": { "type": "Point", "coordinates": [ 106.97376384478396, -6.232070405882057 ] } },
+{ "type": "Feature", "properties": { "No": 6, "Nama": "Toko Lia Textile", "Y": -6.2297430895662984, "X": 106.971294236052 }, "geometry": { "type": "Point", "coordinates": [ 106.971294236052003, -6.229743089566298 ] } },
+{ "type": "Feature", "properties": { "No": 7, "Nama": "Gereja Katolik Paroki Santo Mikael, Kranji", "Y": -6.2320561812590292, "X": 106.96887245422437 }, "geometry": { "type": "Point", "coordinates": [ 106.968872454224368, -6.232056181259029 ] } },
+{ "type": "Feature", "properties": { "No": 8, "Nama": "Lapangan Bola Kranji", "Y": -6.2273808498309702, "X": 106.97286245228267 }, "geometry": { "type": "Point", "coordinates": [ 106.972862452282669, -6.22738084983097 ] } },
+{ "type": "Feature", "properties": { "No": 9, "Nama": "Kantor Kelurahan Kranji", "Y": -6.224967214779439, "X": 106.9707570915559 }, "geometry": { "type": "Point", "coordinates": [ 106.970757091555896, -6.224967214779439 ] } },
+{ "type": "Feature", "properties": { "No": 10, "Nama": "BELANJA KERAMIK KRANJI", "Y": -6.2283935605501179, "X": 106.97760800317212 }, "geometry": { "type": "Point", "coordinates": [ 106.977608003172122, -6.228393560550118 ] } },
+{ "type": "Feature", "properties": { "No": 11, "Nama": "Dealer Mitsubishi Bekasi", "Y": -6.2238495031543977, "X": 106.97712284388049 }, "geometry": { "type": "Point", "coordinates": [ 106.977122843880494, -6.223849503154398 ] } },
+{ "type": "Feature", "properties": { "No": 12, "Nama": "Baraka Express Cabang Kranji", "Y": -6.2276007124968125, "X": 106.97907945473401 }, "geometry": { "type": "Point", "coordinates": [ 106.979079454734006, -6.227600712496812 ] } },
+{ "type": "Feature", "properties": { "No": 13, "Nama": "Apotek Pemuda 30", "Y": -6.2322262241259834, "X": 106.974713514996 }, "geometry": { "type": "Point", "coordinates": [ 106.974713514995997, -6.232226224125983 ] } },
+{ "type": "Feature", "properties": { "No": 14, "Nama": "Bengkel Motor Anwar", "Y": -6.231042253828611, "X": 106.972925436837 }, "geometry": { "type": "Point", "coordinates": [ 106.972925436837002, -6.231042253828611 ] } },
+{ "type": "Feature", "properties": { "No": 15, "Nama": "Bidan Elsa S.Tr.Keb (Bidan Mami)", "Y": -6.2260776220815899, "X": 106.97668465646601 }, "geometry": { "type": "Point", "coordinates": [ 106.976684656466006, -6.22607762208159 ] } }
+]
+}
